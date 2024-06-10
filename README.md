@@ -3,6 +3,7 @@
   Student ID: 041106465
 </h1>
 1.Folder(mtm6302-emoji-your-github-navdeepkaurbhangu) with files namely readme, index.html, style.css and script.js.
+
 ![image](https://github.com/navdeepkaurbhangu/mtm6302-emoji-your-github-navdeepkaurbhangu/assets/133885471/a894f27c-3b59-4067-93ba-e5755b6cc40e)
 
 2.Fies in Visual studio code.
